@@ -5,15 +5,13 @@ Travel Safety App - A blockchain-based safety reporting system for travelers
 
 ## Contract Deployment
 
-### Contract Address:
-
-`GB2EDODPMGLJOHG46X5JIVIVY7CB4UHDMH3W5BT6TZY37S32Q7KDCQWY`
+### Contract Address:  `GB2EDODPMGLJOHG46X5JIVIVY7CB4UHDMH3W5BT6TZY37S32Q7KDCQWY`
 
 
 ### Transaction Screenshot
 
 |:------------:|
-|![Transaction Screenshot](./assets/)|
+|![Transaction Screenshot](./assest./trans.gif)|
 
 ---
 
@@ -34,7 +32,7 @@ Travel Safety App - A blockchain-based safety reporting system for travelers
   ---
 
 ## Project Structure 
-
+```
 Travel_Safety_App/
 ├── contracts/
 │   └── hello_world/
@@ -44,7 +42,7 @@ Travel_Safety_App/
 │       └── Cargo.toml
 ├── Cargo.toml
 └── README.md
-
+```
 ---
 
 
