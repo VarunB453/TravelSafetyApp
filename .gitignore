@@ -1,3 +1,4 @@
 # Local settings
 .soroban
 .stellar
+.gitignore
