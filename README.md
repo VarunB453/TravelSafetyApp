@@ -13,7 +13,23 @@ A blockchain-based safety reporting system for travelers
 | Transaction Screenshot |
 | :---------------------: |
 | ![Transaction Screenshot](./assets/transaction_screenshot.png) |
+
+
 ---
+
+## Why Blockchain?
+
+Traditional travel safety information is often:
+- Outdated or generalized
+- Controlled by centralized entities
+- Difficult to verify for authenticity
+- Not easily accessible in real-time
+
+Our solution leverages blockchain technology to create:
+- A tamper-proof record of safety reports
+- Community-driven verification mechanisms
+- Transparent resolution tracking
+- Global accessibility without centralized control
 
 ---
 
