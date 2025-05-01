@@ -9,13 +9,13 @@ A blockchain-based safety reporting system for travelers
 ### Contract Address:  `GB2EDODPMGLJOHG46X5JIVIVY7CB4UHDMH3W5BT6TZY37S32Q7KDCQWY`
 
 
-### Transaction Screenshot
-
-|:------------:|
-|![Transaction Screenshot](./assest./trans.gif)|
-
+---
+| Transaction Screenshot |
+| :---------------------: |
+| ![Transaction Screenshot](./assets/transaction_screenshot.png) |
 ---
 
+---
 
 ## Table of Contents
 
