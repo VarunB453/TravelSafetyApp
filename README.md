@@ -1,5 +1,6 @@
-# Travel_Safety_App 🆘
-Travel Safety App - A blockchain-based safety reporting system for travelers
+# Travel Safety App 🆘
+
+A blockchain-based safety reporting system for travelers
 
 ---
 
@@ -33,7 +34,7 @@ Travel Safety App - A blockchain-based safety reporting system for travelers
 
 ## Project Structure 
 ```
-Travel_Safety_App/
+TravelSafetyApp/
 ├── contracts/
 │   └── hello_world/
 │       ├── src/
